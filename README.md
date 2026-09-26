@@ -23,7 +23,7 @@ Perform the following in the dataset from the 'Dataset' sheet.
 		• Create a new column named Month by extracting 4th to 6th characters from the 'Product ID' column using the MID function.
 
 
-This assignment is about analyzing product data in Excel. We use different formulas to find the total, count, average, minimum, and maximum prices, categorize products based on price, and extract information from Product IDs.
+This assignment is about analyzing product data in Excel. Use different formulas to find the total, count, average, minimum, and maximum prices, categorize products based on price, and extract information from Product IDs.
 
 SUM, COUNT, AVERAGE
 SUM → =SUM(range)
