@@ -4,14 +4,19 @@ SUM, COUNT, AVERAGE
 SUM → =SUM(range)
 COUNT → =COUNT(range)
 AVERAGE → =AVERAGE(range)
+
+
 MIN, MAX
 MIN → =MIN(range)
 MAX → =MAX(range)
+
 IF
 =IF(price>=500,"High Price","Standard Price")
+
 SUMIF, COUNTIF
 SUMIF → =SUMIF(category_range,"Electronics",price_range)
 COUNTIF → =COUNTIF(price_range,"<100")
+
 LEFT, RIGHT, MID
 LEFT → =LEFT(Product_ID,2)
 RIGHT → =RIGHT(Product_ID,2)
